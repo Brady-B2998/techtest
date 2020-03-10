@@ -6,6 +6,8 @@
 | 2. **shit**     | - **bitch**   |      + **ninny**|
 | 3 **dick**      | - **dildo**   |+ **mean person**|
 ---
+***
+___
 ![alt text][logo]
 
 [Link to the shirt](https://www.amazon.com/Fuck-Off-Bitch-Notebook-Notebooks/dp/1793190062)
