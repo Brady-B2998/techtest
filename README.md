@@ -1,7 +1,7 @@
 #  All The Bad Words I can Think of
 
-| Tables        | Are           | Cool  |
-| ------------- |:-------------:| -----:|
-| col 3 is      | right-aligned | $1600 |
-| col 2 is      | centered      |   $12 |
-| zebra stripes | are neat      |    $1 |
+| Bad Words     | Bad Words     |   Bad Words|
+| ------------- |:--------------|      -----:|
+| 1. fuck       | - ass         |       +cunt|
+| 2. shit       | - bitch       |      +ninny|
+| 3 dick        | - dildo       | mean person|
