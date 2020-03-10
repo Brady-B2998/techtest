@@ -6,4 +6,6 @@
 | 2. **shit**       | - **bitch**       |      + **ninny**|
 | 3 **dick**        | - **dildo**      |+ **mean person**|
 
-![alt text][https://www.123rf.com/stock-photo/swear_word.html?sti=mbzmxoxj3adrt2h7xt|)
+![alt text][logo]
+
+[logo]: https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 2"
