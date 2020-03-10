@@ -8,4 +8,4 @@
 
 ![alt text][logo]
 
-[logo]: https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 2"
+[logo]: https://images-na.ssl-images-amazon.com/images/I/41sDuOPO4nL._SX331_BO1,204,203,200_.jpg "Logo Title Text 2"
