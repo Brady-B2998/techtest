@@ -6,9 +6,12 @@
 | 2. **shit**     | - **bitch**   |      + **ninny**|
 | 3 **dick**      | - **dildo**   |+ **mean person**|
 <br>
+
 ---
 ***
 ___
+
+<br>
 
 ###### Small ass header
 ![alt text][logo]
