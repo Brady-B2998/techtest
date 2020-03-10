@@ -23,7 +23,3 @@ ___
 [logo]: https://images-na.ssl-images-amazon.com/images/I/41sDuOPO4nL._SX331_BO1,204,203,200_.jpg "Logo Title Text 2"
 <br>
 
-<font size="3" color="red">This is some text!</font>
-<font size="2" color="blue">This is some text!</font>
-<font face="verdana" color="green">This is some text!</font>
-
