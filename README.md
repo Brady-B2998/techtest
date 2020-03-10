@@ -5,3 +5,5 @@
 | 1. **fuck**       | - **ass**         |       + **cunt**|
 | 2. **shit**       | - **bitch**       |      + **ninny**|
 | 3 **dick**        | - **dildo**      |+ **mean person**|
+
+![alt text][https://www.123rf.com/stock-photo/swear_word.html?sti=mbzmxoxj3adrt2h7xt|)
