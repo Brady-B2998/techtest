@@ -5,9 +5,11 @@
 | 1. **fuck**     | - **ass**     |       + **cunt**|
 | 2. **shit**     | - **bitch**   |      + **ninny**|
 | 3 **dick**      | - **dildo**   |+ **mean person**|
+
 ---
 ***
 ___
+
 ###### Small ass header
 ![alt text][logo]
 
