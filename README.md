@@ -5,7 +5,7 @@
 | 1. **fuck**     | - **ass**     |       + **cunt**|
 | 2. **shit**     | - **bitch**   |      + **ninny**|
 | 3 **dick**      | - **dildo**   |+ **mean person**|
-<nbsp;>
+<br>
 ---
 ***
 ___
