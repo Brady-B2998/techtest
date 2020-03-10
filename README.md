@@ -2,7 +2,7 @@
 
 | *Organized*     | *Unorganized* |    *Unorganized*|
 | -------------   |:-------------:|           -----:|
-| 1. **fuck**     | - **ass**     |       + **cunt**|
+| 1. <span style = "color: red">**fuck**</span>     | - **ass**     |       + **cunt**|
 | 2. **shit**     | - **bitch**   |      + **ninny**|
 | 3 **dick**      | - **dildo**   |+ **mean person**|
 ---
